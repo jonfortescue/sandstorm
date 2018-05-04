@@ -6,7 +6,7 @@
         "title": "デモが切れりました",
         "canUpgrade": "サンドストームのデモを試しありがとうございます！デモのアカウントが切れられりました。If you'd like to continue using Sandstorm and make your data permanent, please sign in.",
         "cannotUpgrade": "サンドストームのデモを試しありがとうございます！デモのアカウントが切れられりました。",
-        "signOut": "サインアウト"
+        "signOut": "ログアウト"
       },
       "adminAlert": {
         "icon": "！",
@@ -14,13 +14,13 @@
       },
       "demoModal": {
         "header": "サンドストームは自ホストができごとのウェブアップスイート。＊＊＊",
-        "withAppDemo": "with apps like %s.",
+        "withAppDemo": "アプリなんてと%s。",
         "withoutAppDemo": "with all the apps you need in one place.",
         "startButton": {
           "withAppDemo": "%sを試そう »",
           "withoutAppDemo": "始めよう »"
         },
-        "explanation": "<p>Sandstorm makes it easy to run apps on your own server. In addition to improving privacy and control, <a href=\"https://blog.sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting.html\" target=\"_blank\">this brings Open Source apps to a wide audience.</a></p>",
+        "explanation": "<p>サンドストーム makes it easy to run apps on your own server. In addition to improving privacy and control, <a href=\"https://blog.sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting.html\" target=\"_blank\">this brings Open Source apps to a wide audience.</a></p>",
         "securityOverview": "<p>Sandstorm is also ridiculously secure. If security interests you, check out <a href=\"https://docs.sandstorm.io/en/latest/developing/security-practices/\" target=\"_blank\">Sandstorm's security model overview</a>.</p>"
       }
     },
@@ -68,10 +68,10 @@
       "uploadFailed": "アップロードを失敗しました。また試みりください。"
     },
     "uploadTest": {
-      "title": "Upload test page",
-      "explanation": "This page is intended for use by the test scripts.",
-      "uploadApp": "Upload app:",
-      "uploadBackup": "Upload backup:"
+      "title": "テスト・ページをアップロードします",
+      "explanation": "テストのスクリプトがこのページに使用目的です。＊＊＊",
+      "uploadApp": "アプリをアップロードします:",
+      "uploadBackup": "バックアップをアップロードします:"
     },
     "referrals": {
       "title": "Referral Program",
@@ -113,14 +113,14 @@
       }
     },
     "about": {
-      "title": "About Sandstorm",
+      "title": "サンドストームついて",
       "intro": {
-        "explanation": "<a href=\"https://sandstorm.io\">Sandstorm.io</a> is an open source hosting platform for personal/private instances of web apps. Users can upload and install arbitrary software through a simple app-store-like web interface. In addition to better privacy, <a href=\"https://blog.sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting.html\">this is the only way to make Open Source web apps viable.</a>",
-        "version": "Version: %s",
+        "explanation": "<a href=\"https://sandstorm.io\">Sandstorm.io</a>は an open source hosting platform for personal/private instances of web apps. Users can upload and install arbitrary software through a simple app-store-like web interface. In addition to better privacy, <a href=\"https://blog.sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting.html\">this is the only way to make Open Source web apps viable.</a>",
+        "version": "バージョン: %s",
         "unofficialWarning": "<strong>WARNING:</strong> This server is running an unofficial build of Sandstorm which may contain modifications not reviewed by the developers."
       },
       "changelog": {
-        "title": "Recent changes"
+        "title": "最近の更新"
       },
       "developers": {
         "title": "Core developers"
@@ -160,7 +160,7 @@
     }
   },
   "grains": {
-    "title": "Grains",
+    "title": "粒",
     "grainView": {
       "notFoundWithId": "No grain found with ID %s.",
       "openWithWhichIdentity": "Would you like to reveal your identity to this grain, or remain anonymous?",
