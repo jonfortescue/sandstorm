@@ -1,53 +1,53 @@
 {
-  "error": "Error: %s",
+  "error": "エラー：　%s",
   "shell": {
     "layout": {
       "demoExpired": {
-        "title": "Demo Expired",
-        "canUpgrade": "Thanks for trying the Sandstorm Demo! Your demo account has expired. If you'd like to continue using Sandstorm and make your data permanent, please sign in.",
-        "cannotUpgrade": "Thanks for trying the Sandstorm Demo! Your demo account has expired.",
-        "signOut": "Sign out"
+        "title": "デモが切れりました",
+        "canUpgrade": "サンドストームのデモを試しありがとうございます！デモのアカウントが切れられりました。If you'd like to continue using Sandstorm and make your data permanent, please sign in.",
+        "cannotUpgrade": "サンドストームのデモを試しありがとうございます！デモのアカウントが切れられりました。",
+        "signOut": "サインアウト"
       },
       "adminAlert": {
-        "icon": "!",
-        "title": "Notice from Admin"
+        "icon": "！",
+        "title": "アドミンから通知"
       },
       "demoModal": {
-        "header": "Sandstorm is a self-hostable web productivity suite.",
+        "header": "サンドストームは自ホストができごとのウェブアップスイート。＊＊＊",
         "withAppDemo": "with apps like %s.",
         "withoutAppDemo": "with all the apps you need in one place.",
         "startButton": {
-          "withAppDemo": "Try %s »",
-          "withoutAppDemo": "Start »"
+          "withAppDemo": "%sを試そう »",
+          "withoutAppDemo": "始めよう »"
         },
         "explanation": "<p>Sandstorm makes it easy to run apps on your own server. In addition to improving privacy and control, <a href=\"https://blog.sandstorm.io/news/2014-07-21-open-source-web-apps-require-federated-hosting.html\" target=\"_blank\">this brings Open Source apps to a wide audience.</a></p>",
         "securityOverview": "<p>Sandstorm is also ridiculously secure. If security interests you, check out <a href=\"https://docs.sandstorm.io/en/latest/developing/security-practices/\" target=\"_blank\">Sandstorm's security model overview</a>.</p>"
       }
     },
     "notifications": {
-      "hint": "Notifications",
-      "text": "Notifications"
+      "hint": "通知",
+      "text": "通知"
     },
     "notificationsPopup": {
-      "title": "Notifications",
-      "empty": "No notifications..."
+      "title": "通知",
+      "empty": "通知がありません…"
     },
     "loading": {
-      "title": "Loading...",
-      "text": "Loading..."
+      "title": "読み込み…",
+      "text": "読み込み…"
     },
     "notFound": {
-      "title": "Not Found",
-      "text": "404 Not Found :("
+      "title": "ページを見つかりません",
+      "text": "エラー４０４ ページ見つかりません (︶︹︺)"
     },
     "root": {
-      "title": "Home"
+      "title": "ホーム"
     },
     "grainLogContents": {
-      "prefix": "..."
+      "prefix": "…"
     },
     "grainLog": {
-      "title": "Debug log: %s"
+      "title": "デバッグの作婦： %s"
     },
     "signup": {
       "title": "Claim Invite",
@@ -56,16 +56,16 @@
         "keyIsNotUsed": "It looks like you already have an account, so you don't need this signup key."
       },
       "keyIsUsed": "Sorry, this signup key has already been used.",
-      "processing": "Please wait...",
+      "processing": "ちょっとまってください…",
       "signInGuide": "First, you have to sign in. Click \"Sign in\" in the upper-right.",
       "invalidKey": "Sorry, this is not a valid signup key."
     },
     "uploadStatus": {
-      "title": "Uploading...",
-      "uploadFailedWithError": "Upload failed: %s %s",
+      "title": "アップロードしています…",
+      "uploadFailedWithError": "アップロードを失敗しました： %s %s",
       "statusWithProgress": "%s... %s",
       "status": "%s...",
-      "uploadFailed": "Upload failed. Please try again."
+      "uploadFailed": "アップロードを失敗しました。また試みりください。"
     },
     "uploadTest": {
       "title": "Upload test page",
