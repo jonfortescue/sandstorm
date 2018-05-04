@@ -3,9 +3,9 @@
   "shell": {
     "layout": {
       "demoExpired": {
-        "title": "Demo Expired",
-        "canUpgrade": "Thanks for trying the Sandstorm Demo! Your demo account has expired. If you'd like to continue using Sandstorm and make your data permanent, please sign in.",
-        "cannotUpgrade": "Thanks for trying the Sandstorm Demo! Your demo account has expired.",
+        "title": "La demo ha expirado",
+        "canUpgrade": "Gracias por probar la demo Sandstorm! Su cuenta demo ha expirado. If you'd like to continue using Sandstorm and make your data permanent, please sign in.",
+        "cannotUpgrade": "Gracias por probar la demo Sandstorm! Su cuenta demo ha expirado.",
         "signOut": "Sign out"
       },
       "adminAlert": {
